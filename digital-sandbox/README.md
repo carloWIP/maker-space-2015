@@ -1,14 +1,17 @@
-#Station 2: For Beginners
+#Station 1: For Beginners - Programming 101
 
-The basis of many maker projects -- and all electronics! -- is circuitry. Here, we'll use a MaKey MaKey board to show you some basics of circuitry.
+You'll have to learn a little bit of programming at some point for your maker projects! But even if you are completely new to coding, we will show you a way to get started using some easy drag-and-drop tools, and a piece of hardware called a Digital Sandbox.
 
-##What's a
+##What's a Digital Sandbox?
+The Digital Sandbox is a board with a microcontroller and several integrated sensors (such as temperature and light sensors), and input and output devices (like buttons and LEDs). It can be easily programmed because it's also an Arduino board. You might have heard of Arduino - it's an open-source hardware project that's used by lots of makers for their projects. The Intel Galileo and Intel Edison boards are also Arduino-compatible.
 
 ##How's it work?
-
+Arduinos run programs called Sketches that control how they operate, and how they interact with all the other pieces of electronics, like sensors and lights, that are attached to them. Sketches are normally written in a computing language that's based on C/C++; we're going to use something called ArduBlock that provides a visual, drag-and-drop interface that's a bit simpler, and then it spits out a Sketch the Arduino (in this case, the Digital Sandbox) can understand.
 
 ##You try it!
+On the desktop of this computer, there should be a file called "night light ardublock.abp". Double-click it and you should get something that looks like this:
 
+![ArduBlock](https://www.dropbox.com/s/r3sosel789ignyc/Screenshot%202015-08-12%2016.47.29.png)
 
 ##Want to win a great prize?
 Now you're ready for the next-level challenge, and the chance to win a great prize like an Android tablet. Here's what you do:
