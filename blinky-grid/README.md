@@ -7,6 +7,8 @@ Another fun feature of many maker projects are LEDs - light emitting diodes. LED
 
 We're going to use a Blinky Grid, which is an 8x7 matrix LEDs controlled by an onboard chip.
 
+![Blinky Grid](blinkygrid.png)
+
 ##You try it!
 
 The great thing about the Blinky Grid is that it also has a couple of on-board light sensors that make it easy for you to program your own messages and graphics. To program the Blinky Grid:
