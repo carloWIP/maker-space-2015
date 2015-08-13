@@ -9,3 +9,16 @@ We're going to use a BlinkyPOV, which is a row of 8 LEDs controlled by a chip an
 
 ![BlinkyPOV Example](http://www.wayneandlayne.com/files/blinky/design/pov_450.png)
 
+You can try it out by turning on the battery pack, then waving the BlinkyPOV in the air, and you can press the button on the circuit board to change the design. It's probably easier for you to wave it in the air so a friend can see it, then vice versa!
+
+##You try it!
+
+The great thing about the BlinkyPOV is that it also has a couple of on-board light sensors that make it easy for you to program your own messages and graphics. To program the BlinkyPOV:
+- Go to http://www.wayneandlayne.com/blinky_programmer/ (We suggest you open this in a new tab so you can refer back here for help)
+- Type in the message, or create the pixel graphic, you want to show in the box
+- Scroll down a little bit to the Programming section
+- Take a look at the Blinky POV, and you'll see a couple of light sensors on it (they look like clear LEDs). They're marked "C" and "D", which stands for Clock and Data. Note which side of the BlinkyPOV is which
+- Follow the instructions below to turn on the BlinkyPOV and to put it into programming mode. When you get to step 4 ("Hold the sensors up to the screen"), hold the board as shown in the image below, with the "C" light sensor over the Clock block and the "D" light sensor over the Data block.
+![Sensors](sensors.jpg)
+
+![instructions](http://www.wayneandlayne.com/files/blinky/images/programming_animated_gif/blinky_programming.gif)
