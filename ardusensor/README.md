@@ -12,4 +12,8 @@ The ArduSensor has 4 spots to connect sensors. These are the black headers on th
 - a force sensor, which is a touch sensor that detects the force of a touch
 
 ##You try it!
-There should be a program running on the Edison and ArduSensor already, but go ahead and hit the Reset button in the upper right corner of the ArduSensor, and gently pull out any sensors that are attached to it. It should look like this
+There should be a program running on the Edison and ArduSensor already, but go ahead and hit the Reset button in the upper right corner of the ArduSensor, and gently pull out any sensors that are attached to it. It should look like this:
+
+[ArduSensor](/ardusensor1.jpg)
+
+
