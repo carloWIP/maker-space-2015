@@ -22,3 +22,10 @@ The great thing about the BlinkyPOV is that it also has a couple of on-board lig
 ![Sensors](sensors.jpg)
 
 ![instructions](http://www.wayneandlayne.com/files/blinky/images/programming_animated_gif/blinky_programming.gif)
+
+##Want to win a great prize?
+Program your message or graphic into the BlinkyPOV, then do this to have a chance at a prize:
+- Get a friend to snap a photo of you making your message (if you can!), and post it to Twitter or Instagram using the hashtags #idf15 and #intelmaker.
+- We'll be selecting a winner each day, and will notify you via the social media channel you posted to. Keep an eye out, you'll need to come back and claim your prize!
+- We'll randomly choose winners from all the photos each day.
+- Intel employees are not eligible for prizes.  One prize per IDF attendee. 
