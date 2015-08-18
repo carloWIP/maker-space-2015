@@ -1,4 +1,4 @@
-#Station 1: For Beginners - Programming 101
+#Station 2: For Beginners - Programming 101
 
 You'll have to learn a little bit of programming at some point for your maker projects! But even if you are completely new to coding, we will show you a way to get started using some easy drag-and-drop tools, and a piece of hardware called a Digital Sandbox.
 
