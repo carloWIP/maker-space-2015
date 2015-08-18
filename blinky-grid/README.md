@@ -1,4 +1,4 @@
-#Light and Vision - Blinky Grid
+#Station 3: Your Name in Lights - Blinky Grid
 Skill level: Beginner
 
 Another fun feature of many maker projects are LEDs - light emitting diodes. LEDs come in different sizes, and many different configurations. In this activity -- and its sister activity with the Blinky POV -- we'll learn to program some LED arrays to display some simple graphics and messages.
