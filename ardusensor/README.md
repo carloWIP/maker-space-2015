@@ -1,4 +1,4 @@
-#Learning About Sensors
+#Station 4: ArduSensor - Learning About Sensors
 You've probably heard about the Internet of Things, or IoT. In a nutshell, IoT describes all sorts of "things" networked and connected via the internet. Lots of these "things" have, or are, sensors. This could be something like a motion detector that turns on a networked security camera, or a soil moisture sensor that sends readings to a server that controls an irrigation system, or a temperature sensor that sends out an alert when a freezer breaks and warms up.
 
 This activity will show you some basics about sensors using an Arduino board and a couple of sensors with LED outputs. And at the end, you'll have a chance to win a prize!
